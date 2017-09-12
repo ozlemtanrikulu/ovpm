@@ -1,0 +1,25 @@
+Codename: ovpm
+Date: Tue, 12 Sep 2017 13:26:51 UTC
+Architectures: i386 amd64
+Components: main
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
+ 6745bbf3e31fb5b540c2a5d491cbfcca 544 main/binary-amd64/Packages
+ d6f57a05c4a45671a2585e0d3f40bf30 410 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
+ fb2dd89338872e296ff3e7023643cf5e27516ec5 544 main/binary-amd64/Packages
+ 54a6e132964ae6e1663374424b8231e0a24762f4 410 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release
+ 33d54d5d2821dcadbcf34bea4d38fbb9fad87ebdbcb2dca7008aa6201e924299 544 main/binary-amd64/Packages
+ cea3f680e504048bb1863515457baa9a16f2b4be73a13d5d2255992d9fa1fac5 410 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release

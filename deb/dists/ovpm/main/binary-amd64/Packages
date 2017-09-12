@@ -1,0 +1,18 @@
+Package: ovpm
+Version: 0.1.15-212
+License: unknown
+Vendor: @50a156c22578
+Architecture: amd64
+Maintainer: <@50a156c22578>
+Installed-Size: 37646
+Depends: openvpn
+Homepage: http://example.com/no-uri-given
+Priority: extra
+Section: default
+Filename: pool/main/o/ovpm/ovpm_0.1.15-212_amd64.deb
+Size: 12797510
+SHA256: 18b0d9ff0a65b5f80a809db440594e3e521d187823001b337b8a6d70bb604dc7
+SHA1: 6ffbd5dbc73132533432212a24de0a3957ae059c
+MD5sum: 80269fe97f94bdd28c5d91ecfb6c9a3f
+Description: OVPM makes all aspects of OpenVPN server administration a breeze.
+
